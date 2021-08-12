@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hello World 👋
+
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-julian-lauw)
+
+My name is Simon Julian Lauw, I'm a computer science student at National University of Singapore 🏫 and an avid Android enthusiast. I like software engineering in general and working in a team to build and break stuffs together! 
+
+* 🏢 I’m an ex-Android Engineer Intern at Sea Labs 
+* 👯 I’m looking to collaborate in web app, desktop and android projects 
 
 <!--
-**simonjulianl/simonjulianl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
