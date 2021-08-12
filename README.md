@@ -7,7 +7,7 @@ My name is Simon Julian Lauw, I'm a computer science student at National Univers
 * 🏢 I’m an ex-Android Engineer Intern at Sea Labs 
 * 👯 I’m looking to collaborate in web app, desktop and android projects 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=simonjulianl&count_private=true&show_icons=true&include_all_commits=true)
 
 <!--
 Here are some ideas to get you started:
