@@ -1,4 +1,4 @@
-### Hello World <img src="https://raw.githubusercontent.com/simonjulianl/simonjulianl/master/wave.gif" width="30px">
+### Hello World <img src="https://raw.githubusercontent.com/simonjulianl/simonjulianl/main/wave.gif" width="30px">
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-julian-lauw)
 
