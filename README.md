@@ -9,8 +9,6 @@ My name is Simon Julian Lauw, I'm a computer science student at National Univers
 
 ![Simon's Github Stats](https://github-readme-stats.vercel.app/api?username=simonjulianl&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-![Simon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonjulianl)
-
 _GitHub widgets by anuraghazra_ 
 <!--
 Here are some ideas to get you started:
