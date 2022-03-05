@@ -2,10 +2,11 @@
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-julian-lauw)
 
-My name is Simon Julian Lauw, I'm a computer science student at National University of Singapore 🏫 and an avid Android enthusiast. I like software engineering in general and working in a team to build and break stuffs together! 
+My name is Simon Julian Lauw, I'm a computer science student at National University of Singapore 🏫 and an avid technology enthusiast. I like software engineering in general and working in a team to build and break stuffs together! 
 
 * 🏢 I’m an ex-Android Engineer Intern at Sea Labs 
-* 👯 I’m looking to collaborate in web app, desktop and android projects 
+* 🏢 Currently, I’m a Software Engineer Intern at AlphaLab Capital, interacting with the blockchains!
+* 👯 I’m looking to collaborate in any projects! Web App, Desktop, Scripts, etc as long as they are fun!
 
 ![Simon's Github Stats](https://github-readme-stats.vercel.app/api?username=simonjulianl&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
