@@ -2,16 +2,8 @@
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-julian-lauw)
 
-My name is Simon Julian Lauw, I'm a computer science student at National University of Singapore 🏫 and an avid technology enthusiast. I like building amazing softwares and working in a team to build and break stuffs together! 
+Hi lads, Simon here :) I like to tinkering with random stuffs, especially about blockchain and operating system. Recently, I have been playing tons of Dota 2, reading random articles and playing with some black magics because CS5250 forcing me to read assembly code in Linux >:(. If you have an interesting idea, do email me and we can have a chat while having a Dota game yeah 
 
-* 🏢 I’m an ex-Android Engineer Intern at Sea Labs 
-* 🏢 I’m an ex-Software Engineer Intern at AlphaLab Capital, my first interaction with the blockchains!
-* 🏢 I’m currently a full stack web3 developer intern at Nethermind, building on StarkNet!
-* 👯 I’m looking to collaborate in any projects! Web App, Desktop, Scripts, etc as long as they are fun!
-
-![Simon's Github Stats](https://github-readme-stats.vercel.app/api?username=simonjulianl&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-
-_GitHub widgets by anuraghazra_ 
 <!--
 Here are some ideas to get you started:
 
