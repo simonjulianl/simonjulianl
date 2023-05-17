@@ -4,7 +4,7 @@
 
 Simon here :) I like to tinkering with random stuffs, especially about blockchain and operating system. Recently, I have been playing tons of Dota 2, reading random articles and playing with some black magics because CS5250 forcing me to read assembly code in Linux >:(. If you have an interesting idea, do email me and we can have a chat while having a Dota game yeah 
 
-You can visit my blogs [here](https://tinyurl.com/simonjulianl) too!
+You can visit my blogs [here](simonjl.com) too!
 
 <!--
 Here are some ideas to get you started:
