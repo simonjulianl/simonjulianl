@@ -1,8 +1,8 @@
-### Hi cool lads <img src="https://raw.githubusercontent.com/simonjulianl/simonjulianl/main/wave.gif" width="30px">
+### Hi hi <img src="https://raw.githubusercontent.com/simonjulianl/simonjulianl/main/wave.gif" width="30px">
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-julian-lauw)
 
-Hi hi, welcome to my GitHub page. You can visit my blogs [here](codefarmer.xyz)
+Welcome to my GitHub page. You can visit my blogs [here](codefarmer.xyz)
 
 <!--
 Here are some ideas to get you started:
