@@ -2,9 +2,7 @@
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-julian-lauw)
 
-Simon here :) I like to tinkering with random stuffs, especially about blockchain and operating system. Recently, I have been playing tons of Dota 2, reading random articles and playing with some black magics because CS5250 forcing me to read assembly code in Linux >:(. If you have an interesting idea, do email me and we can have a chat while having a Dota game yeah 
-
-You can visit my blogs [here](http://simonjl.com) too!
+Hi hi, welcome to my GitHub page. You can visit my blogs [here](codefarmer.xyz)
 
 <!--
 Here are some ideas to get you started:
