@@ -2,7 +2,7 @@
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-julian-lauw)
 
-Welcome to my GitHub page. You can visit my blogs [here](codefarmer.xyz)
+Welcome to my GitHub page. You can visit my blogs [here](https://codefarmer.xyz/)
 
 <!--
 Here are some ideas to get you started:
